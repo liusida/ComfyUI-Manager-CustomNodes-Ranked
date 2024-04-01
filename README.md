@@ -35,31 +35,31 @@ ComfyUI Manager will fetch the list from the official source.
 ## Awesome List of ComfyUI Manager Custom Nodes
 Discover the most popular and community-endorsed custom nodes for ComfyUI Manager, ranked by their GitHub Stars as on April 1, 2024.
 
-No. 1: [ComfyUI-Manager] https://github.com/ltdrdata/ComfyUI-Manager (Star: 3175)
+No. 1: [ComfyUI-Manager] https://github.com/ltdrdata/ComfyUI-Manager (Star: 3180)
 
-No. 2: [ComfyUI_IPAdapter_plus] https://github.com/cubiq/ComfyUI_IPAdapter_plus (Star: 1881)
+No. 2: [ComfyUI_IPAdapter_plus] https://github.com/cubiq/ComfyUI_IPAdapter_plus (Star: 1885)
 
-No. 3: [AnimateDiff Evolved] https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved (Star: 1863)
+No. 3: [AnimateDiff Evolved] https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved (Star: 1865)
 
 No. 4: [comfyui-portrait-master-zh-cn] https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn (Star: 1309)
 
-No. 5: [ComfyUI-3D-Pack] https://github.com/MrForExample/ComfyUI-3D-Pack (Star: 1250)
+No. 5: [ComfyUI-3D-Pack] https://github.com/MrForExample/ComfyUI-3D-Pack (Star: 1251)
 
-No. 6: [ComfyUI's ControlNet Auxiliary Preprocessors] https://github.com/Fannovel16/comfyui_controlnet_aux (Star: 1111)
+No. 6: [ComfyUI's ControlNet Auxiliary Preprocessors] https://github.com/Fannovel16/comfyui_controlnet_aux (Star: 1112)
 
 No. 7: [ComfyUI Impact Pack] https://github.com/ltdrdata/ComfyUI-Impact-Pack (Star: 1062)
 
 No. 8: [ComfyUI-InstantID] https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID (Star: 1034)
 
-No. 9: [pythongosssss/ComfyUI-Custom-Scripts] https://github.com/pythongosssss/ComfyUI-Custom-Scripts (Star: 995)
+No. 9: [pythongosssss/ComfyUI-Custom-Scripts] https://github.com/pythongosssss/ComfyUI-Custom-Scripts (Star: 996)
 
 No. 10: [Stable Diffusion Dynamic Thresholding (CFG Scale Fix)] https://github.com/mcmonkeyprojects/sd-dynamic-thresholding (Star: 978)
 
-No. 11: [ComfyUI-layerdiffuse (layerdiffusion)] https://github.com/huchenlei/ComfyUI-layerdiffuse (Star: 940)
+No. 11: [ComfyUI-layerdiffuse (layerdiffusion)] https://github.com/huchenlei/ComfyUI-layerdiffuse (Star: 941)
 
 No. 12: [ReActor Node for ComfyUI] https://github.com/Gourieff/comfyui-reactor-node (Star: 790)
 
-No. 13: [ComfyUI-SUPIR] https://github.com/kijai/ComfyUI-SUPIR (Star: 767)
+No. 13: [ComfyUI-SUPIR] https://github.com/kijai/ComfyUI-SUPIR (Star: 769)
 
 No. 14: [WAS Node Suite] https://github.com/WASasquatch/was-node-suite-comfyui (Star: 754)
 
@@ -73,10 +73,13 @@ No. 18: [AIGODLIKE-COMFYUI-TRANSLATION] https://github.com/AIGODLIKE/AIGODLIKE-C
 
 No. 19: [comfyui-mixlab-nodes] https://github.com/shadowcz007/comfyui-mixlab-nodes (Star: 607)
 
-No. 20: [One Button Prompt] https://github.com/AIrjen/OneButtonPrompt (Star: 601)
+No. 20: [One Button Prompt] https://github.com/AIrjen/OneButtonPrompt (Star: 603)
 
 
 ## Acknowledgements:
 
 A heartfelt thank you to the authors and contributors of [ComfyUI](https://github.com/comfyanonymous/ComfyUI) and [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) for providing such excellent tools that empower the community on AI-generated content creation.
 
+## Apologies:
+
+Some custom nodes (~1%) are not hosted on GitHub, making our ranking method, which is based on GitHub stars, not entirely fair to them. We apologize for any oversight this may cause and are open to suggestions on how to better recognize and include all custom nodes in our evaluations. Your feedback is welcome to make this list as inclusive and fair as possible.
