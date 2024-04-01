@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-The official list in the "Install Custom Nodes" section of [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) does not show the popularity of custom nodes. To address this, I have created a ranked list based on their popularity (GitHub Stars). This guide will show you how to use this ranked list.
+The official list in the "Install Custom Nodes" section of [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) does not reflect the popularity of custom nodes. To address this, I have created a ranked list based on their popularity (GitHub Stars). This guide will show you how to use this ranked list.
 
 ## Step-by-Step Guide:
 
